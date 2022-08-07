@@ -116,7 +116,8 @@ class RefreshLocalizationsDelegate
       'pt',
       'sv',
       'nl',
-      'es'
+      'es',
+      'ar'
     ].contains(locale.languageCode);
   }
 
